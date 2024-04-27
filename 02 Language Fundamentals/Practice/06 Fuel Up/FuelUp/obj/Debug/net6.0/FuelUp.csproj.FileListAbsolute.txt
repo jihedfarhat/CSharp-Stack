@@ -1,0 +1,5 @@
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\06 Fuel Up\FuelUp\obj\Debug\net6.0\FuelUp.csproj.AssemblyReference.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\06 Fuel Up\FuelUp\obj\Debug\net6.0\FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\06 Fuel Up\FuelUp\obj\Debug\net6.0\FuelUp.AssemblyInfoInputs.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\06 Fuel Up\FuelUp\obj\Debug\net6.0\FuelUp.AssemblyInfo.cs
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\06 Fuel Up\FuelUp\obj\Debug\net6.0\FuelUp.csproj.CoreCompileInputs.cache

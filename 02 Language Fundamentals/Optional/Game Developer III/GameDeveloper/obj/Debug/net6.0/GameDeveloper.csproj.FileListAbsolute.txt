@@ -1,0 +1,5 @@
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Optional\Game Developer III\GameDeveloper\obj\Debug\net6.0\GameDeveloper.csproj.AssemblyReference.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Optional\Game Developer III\GameDeveloper\obj\Debug\net6.0\GameDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Optional\Game Developer III\GameDeveloper\obj\Debug\net6.0\GameDeveloper.AssemblyInfoInputs.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Optional\Game Developer III\GameDeveloper\obj\Debug\net6.0\GameDeveloper.AssemblyInfo.cs
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Optional\Game Developer III\GameDeveloper\obj\Debug\net6.0\GameDeveloper.csproj.CoreCompileInputs.cache

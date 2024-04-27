@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "R4q7A15ZwBshKK+6bNSgVI8FMj1zYVP/1PCiCawScKo=",
+  "Source": "CountDown",
+  "BasePath": "_content/CountDown",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CountDown\\wwwroot",
+      "Source": "CountDown",
+      "ContentRoot": "C:\\Users\\Jihed Farhat\\Desktop\\dotnet\\CSharp-stack\\03 ASP.NET Core\\Practice\\04 Countdown\\CountDown\\wwwroot\\",
+      "BasePath": "_content/CountDown",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jihed Farhat\\Desktop\\dotnet\\CSharp-stack\\03 ASP.NET Core\\Practice\\04 Countdown\\CountDown\\wwwroot\\css\\style.css",
+      "SourceId": "CountDown",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jihed Farhat\\Desktop\\dotnet\\CSharp-stack\\03 ASP.NET Core\\Practice\\04 Countdown\\CountDown\\wwwroot\\",
+      "BasePath": "_content/CountDown",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

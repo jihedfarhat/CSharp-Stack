@@ -1,0 +1,15 @@
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\bin\Debug\net6.0\Fundamentals.exe
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\bin\Debug\net6.0\Fundamentals.deps.json
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\bin\Debug\net6.0\Fundamentals.runtimeconfig.json
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\bin\Debug\net6.0\Fundamentals.dll
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\bin\Debug\net6.0\Fundamentals.pdb
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.AssemblyInfo.cs
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.dll
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\refint\Fundamentals.dll
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.pdb
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\Fundamentals.genruntimeconfig.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\01 Language Fundamentals\Practice\01 Fundamentals I\Fundamentals\obj\Debug\net6.0\ref\Fundamentals.dll

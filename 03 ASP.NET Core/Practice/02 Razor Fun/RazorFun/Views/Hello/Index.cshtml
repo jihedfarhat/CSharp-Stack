@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  @{
+    // Define a List of strings using Razor syntax
+    List<string> razor = new List<string>
+    {
+        "Apple Pie",
+        "Pizza",
+        "Cinnamon Rolls",
+        "Lasagna",
+        "Donuts",
+        "Chocolate Cake",
+        "Burritos"
+    };
+  }
+
+  @foreach (var str in razor)
+  {
+    // Check if the string starts with "c" using Razor syntax
+    if (str.StartsWith("C"))
+    {
+      // Apply red color style if the string starts with "c"
+      <p style="color: red;">@str</p>
+    }
+    else
+    {
+      // Render the string without any additional styling
+      <p>@str</p>
+    }
+  }
+</body>
+</html>

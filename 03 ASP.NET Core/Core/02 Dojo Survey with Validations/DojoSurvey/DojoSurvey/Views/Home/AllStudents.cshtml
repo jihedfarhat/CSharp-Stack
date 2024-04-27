@@ -1,0 +1,9 @@
+@model List<Student>
+  @foreach (Student p in Model) 
+{
+  <h1>Submitted Info</h1>
+  <p>Name : @p.Name </p>
+  <p>Dojo Location : @p.Location</p>
+  <p>Favorite Language : @p.FavoriteLanguage</p>
+  <p>Comment : @p.Comment</p>
+}

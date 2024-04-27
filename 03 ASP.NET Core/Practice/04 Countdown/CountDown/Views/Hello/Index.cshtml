@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+    <h1>ASP.NET Mvc Clock!</h1>
+  @{
+    DateTime currentTime = DateTime.Now;
+
+    DateTime endDate = new DateTime(2024, 5, 9); 
+
+    TimeSpan remainingTime = endDate - currentTime;
+
+    string formattedCountdown = $"{remainingTime.Days} days, {remainingTime.Hours} hours, {remainingTime.Minutes} minutes, {remainingTime.Seconds} seconds";
+}
+<h1>Countdown Timer</h1>
+<div>
+  <p>Start Time :  @currentTime.ToString("yyyy-MM-dd HH:mm:ss")</p>
+</div>
+<div>
+<p>End Date: @endDate.ToString("yyyy-MM-dd HH:mm:ss")</p>
+</div>
+<div>
+    <p>Time Remaining: @formattedCountdown</p>
+</div>
+</body>
+</html>

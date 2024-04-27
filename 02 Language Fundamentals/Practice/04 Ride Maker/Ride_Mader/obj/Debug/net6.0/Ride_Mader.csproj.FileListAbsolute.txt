@@ -1,0 +1,15 @@
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\bin\Debug\net6.0\Ride_Mader.exe
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\bin\Debug\net6.0\Ride_Mader.deps.json
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\bin\Debug\net6.0\Ride_Mader.runtimeconfig.json
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\bin\Debug\net6.0\Ride_Mader.dll
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\bin\Debug\net6.0\Ride_Mader.pdb
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.csproj.AssemblyReference.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.AssemblyInfoInputs.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.AssemblyInfo.cs
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.csproj.CoreCompileInputs.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.dll
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\refint\Ride_Mader.dll
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.pdb
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\Ride_Mader.genruntimeconfig.cache
+C:\Users\Jihed Farhat\Desktop\dotnet\CSharp-stack\02 Language Fundamentals\Practice\04 Ride Maker\Ride_Mader\obj\Debug\net6.0\ref\Ride_Mader.dll
